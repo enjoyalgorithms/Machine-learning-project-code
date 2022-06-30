@@ -1,7 +1,5 @@
 ## Introduction
 
-
-
 Companies are collecting tons of data, and with this, the need for processed data is highly increasing. In the [previous blogs](https://www.enjoyalgorithms.com/blog/data-pre-processing-for-machine-learning/), we have seen the following data preprocessing techniques in theory:
 
 * Feature Selection
