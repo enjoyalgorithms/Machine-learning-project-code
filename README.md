@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![logo](https://ibb.co/Ks7qBCb)
+  ![logo](assert/images/ML_logo.png)
 
   **🚀 Machine Learning Project Code 🚀 is a collection of popular Machine Learning projects which are a part of [Machine Learning Course at EnjoyAlgorithms](https://www.enjoyalgorithms.com/machine-learning-courses/)
     along with their Python codes.
