@@ -1,6 +1,6 @@
 <div align="center">
 
-  !![ML_logo](https://github.com/enjoyalgorithms/Machine-learning-project-code/assets/28762340/3683ebad-fe17-4bb0-a168-d0aa7fe97c2d)
+  ![ML_logo](https://github.com/enjoyalgorithms/Machine-learning-project-code/assets/28762340/3683ebad-fe17-4bb0-a168-d0aa7fe97c2d)
 
   
 
