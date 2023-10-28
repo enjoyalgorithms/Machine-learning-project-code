@@ -3,7 +3,7 @@
   ![logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
   **🚀 Machine Learning Project Code 🚀 is a collection of popular Machine Learning projects which are a part of [Machine Learning Course at EnjoyAlgorithms](https://www.enjoyalgorithms.com/machine-learning-courses/)
-    along with their Python codes in [Scikit-learn]([https://pytorch.org/](https://scikit-learn.org/stable/)).**
+    along with their Python codes in [Scikit-learn](https://scikit-learn.org/stable/).**
   
 </div>
 
