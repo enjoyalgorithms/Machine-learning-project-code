@@ -2,7 +2,6 @@
 
   ![ML_logo](https://github.com/enjoyalgorithms/Machine-learning-project-code/assets/28762340/3683ebad-fe17-4bb0-a168-d0aa7fe97c2d)
 
-  
 
   **🚀 Machine Learning Project Code 🚀 is a collection of popular Machine Learning projects which are a part of [Machine Learning Course at EnjoyAlgorithms](https://www.enjoyalgorithms.com/machine-learning-courses/)
     along with their Python codes.
