@@ -5,3 +5,4 @@ scipy
 matplotlib
 nltk
 imblearn
+yellowbrick
