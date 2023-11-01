@@ -6,3 +6,6 @@ matplotlib
 nltk
 imblearn
 yellowbrick
+pycountry_convert
+plotly
+statsmodels
