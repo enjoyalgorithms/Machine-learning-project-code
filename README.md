@@ -16,6 +16,43 @@
 * 20+ industrial applications of Machine Learning.
 * Guidance from Industry professionals to crack ML interviews.
 
+## 💻 Make your system enabled to support all these projects with terminal commands
+
+### Step 1: Make a virtual environment via python
+
+```python
+python3 -m venv ~/venv_enjoyalgorithm_projects
+```
+
+### Step 2: Activate the virtual environment
+
+```
+source ~/venv_enjoyalgorithm_projects/bin/activate
+```
+
+### Step 3: Upgrade pip
+
+```
+pip3 install --upgrade pip
+```
+
+### Step 4: Clone the repository
+```
+git clone https://github.com/enjoyalgorithms/Machine-learning-project-code.git
+```
+
+### Step 5: Install dependencies
+
+```
+pip3 install -r requirements.txt
+```
+
+### Step 6: Open the jupyter-notebook to run these ipynb files 
+```
+jupyter-notebook
+```
+
+
 
 ## 👩‍💻 Machine Learning Projects and Python Codes
 As a part of the ML curriculum, there are 15+ ML projects along with their Python codes. List of all the projects are:
@@ -51,5 +88,5 @@ We welcome community contributions to expand the scope of `Industry Based ML Pro
 
 NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 
-## License
+## 📃 License
 [MIT](https://choosealicense.com/licenses/mit/)
