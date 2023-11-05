@@ -9,5 +9,5 @@ yellowbrick
 pycountry_convert
 plotly
 statsmodels
-jupyter-notebbok
+notebbok
 chembl_webresource_client
