@@ -1,0 +1,11 @@
+,Price,Payment Method,Quantity
+0,102.0,Card,12.0
+1,721.0,Cash,1.0
+2,231.0,Card,NaN
+3,NaN,Cash,1.0
+4,18.0,NaN,1.0
+5,750.0,Card,9.0
+6,100.0,Cash,NaN
+7,NaN,Card,5.0
+8,605.0,Card,1.0
+9,750.0,NaN,NaN
