@@ -18,36 +18,36 @@
 
 ## 💻 Make your system enabled to support all these projects with terminal commands
 
-### Step 1: Make a virtual environment via python
+#### Step 1: Make a virtual environment via python
 
 ```python
 python3 -m venv ~/venv_enjoyalgorithm_projects
 ```
 
-### Step 2: Activate the virtual environment
+#### Step 2: Activate the virtual environment
 
 ```
 source ~/venv_enjoyalgorithm_projects/bin/activate
 ```
 
-### Step 3: Upgrade pip
+#### Step 3: Upgrade pip
 
 ```
 pip3 install --upgrade pip
 ```
 
-### Step 4: Clone the repository
+#### Step 4: Clone the repository
 ```
 git clone https://github.com/enjoyalgorithms/Machine-learning-project-code.git
 ```
 
-### Step 5: Install dependencies
+#### Step 5: Install dependencies
 
 ```
 pip3 install -r requirements.txt
 ```
 
-### Step 6: Open the jupyter-notebook to run these ipynb files 
+#### Step 6: Open the jupyter-notebook to run these ipynb files 
 ```
 jupyter-notebook
 ```
@@ -76,7 +76,7 @@ Unsupervised Learning Projects | Algorithm Used |Code |
 [Image Compression](https://www.enjoyalgorithms.com/blog/image-compression-using-pca/) | [PCA](https://www.enjoyalgorithms.com/blog/principal-component-analysis-in-ml/) | [Code](https://github.com/enjoyalgorithms/Machine-learning-project-code/blob/main/industry_projects/PCA_Image_compression/image_compression.ipynb) |
 
 
-### 🤝 Contributing <a name="contributing"></a>
+## 🤝 Contributing <a name="contributing"></a>
 
 We welcome community contributions to expand the scope of `Industry Based ML Projects`. Please follow the famous `fork-and-pull` Git workflow to add new projects.
 
