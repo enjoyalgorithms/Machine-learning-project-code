@@ -59,21 +59,21 @@ As a part of the ML curriculum, there are 15+ ML projects along with their Pytho
 
 Supervised Learning Projects | Algorithm Used |Code |
 --- | --- | --- | 
-[Life Expectancy Predictio](https://www.enjoyalgorithms.com/blog/linear-regression-in-machine-learning/) | [Linear Regression](https://www.enjoyalgorithms.com/blog/linear-regression-in-machine-learning/) | [Code] | 
-[Optical Character Recognition](https://www.enjoyalgorithms.com/blog/optical-character-recognition-using-logistic-regression/) | [Logistic Regression](https://www.enjoyalgorithms.com/blog/logistic-regression-in-ml/) | [Code] |
-[Breast Cancer Prediction](https://www.enjoyalgorithms.com/blog/cancer-classification-using-machine-learning/) | [SVM](https://www.enjoyalgorithms.com/blog/support-vector-machine-in-ml/) | [Code] |
-[Email Spam Classification](https://www.enjoyalgorithms.com/blog/email-spam-and-non-spam-filtering-using-machine-learning/) | [KNN](https://www.enjoyalgorithms.com/blog/k-nearest-neighbours-in-ml/) | [Code] |
+[Life Expectancy Predictio](https://www.enjoyalgorithms.com/blog/linear-regression-in-machine-learning/) | [Linear Regression](https://www.enjoyalgorithms.com/blog/linear-regression-in-machine-learning/) | [Code](https://github.com/enjoyalgorithms/Machine-learning-project-code/blob/main/industry_projects/life-expectancy-linear-regression/Life%20expectancy.ipynb) | 
+[Optical Character Recognition](https://www.enjoyalgorithms.com/blog/optical-character-recognition-using-logistic-regression/) | [Logistic Regression](https://www.enjoyalgorithms.com/blog/logistic-regression-in-ml/) | [Code](https://github.com/enjoyalgorithms/Machine-learning-project-code/blob/main/industry_projects/optical-character-recognition/optical-character-recognition-logistic-regression.ipynb) |
+[Breast Cancer Prediction](https://www.enjoyalgorithms.com/blog/cancer-classification-using-machine-learning/) | [SVM](https://www.enjoyalgorithms.com/blog/support-vector-machine-in-ml/) | [Code](https://github.com/enjoyalgorithms/Machine-learning-project-code/blob/main/industry_projects/cancer%20prediction/Cancer_prediction.ipynb) |
+[Email Spam Classification](https://www.enjoyalgorithms.com/blog/email-spam-and-non-spam-filtering-using-machine-learning/) | [KNN](https://www.enjoyalgorithms.com/blog/k-nearest-neighbours-in-ml/) | [Code](https://github.com/enjoyalgorithms/Machine-learning-project-code/blob/main/industry_projects/email%20spam%20non-spam/email_spam_detection.ipynb) |
 [Wine Quality Prediction](https://www.enjoyalgorithms.com/blog/wine-quality-prediction/) | [KNN](https://www.enjoyalgorithms.com/blog/k-nearest-neighbours-in-ml/) | [Code] |
-[Sentiment Analysis](https://www.enjoyalgorithms.com/blog/sentiment-analysis-using-machine-learning/) | [Naive Bayes](https://www.enjoyalgorithms.com/blog/naive-bayes-in-ml/) | [Code] |
-[How Uber Uses ML?](https://www.enjoyalgorithms.com/blog/how-uber-use-machine-learning/) | [Random Forest](https://www.enjoyalgorithms.com/blog/random-forest-in-ml/) | [Code] |
-[Pubg Cheater Detection](https://www.enjoyalgorithms.com/blog/pubg-cheater-detection-system-using-ml/) | [Random Forest](https://www.enjoyalgorithms.com/blog/random-forest-in-ml/) | [Code] |
-[Drug Discovery](https://www.enjoyalgorithms.com/blog/drug-discovery-using-ml/) | [XG-Boost](https://www.enjoyalgorithms.com/blog/xg-boost-algorithm-in-ml/) | [Code] |
+[Sentiment Analysis](https://www.enjoyalgorithms.com/blog/sentiment-analysis-using-machine-learning/) | [Naive Bayes](https://www.enjoyalgorithms.com/blog/naive-bayes-in-ml/) | [Code](https://github.com/enjoyalgorithms/Machine-learning-project-code/blob/main/industry_projects/sentiment-analysis-naive-bayes/Sentiment_Analysis.ipynb) |
+[How Uber Uses ML?](https://www.enjoyalgorithms.com/blog/how-uber-use-machine-learning/) | [Random Forest](https://www.enjoyalgorithms.com/blog/random-forest-in-ml/) | [Code](https://github.com/enjoyalgorithms/Machine-learning-project-code/blob/main/industry_projects/Uber%20Serge%20Price/Uber_surge_multiplier_prediction.ipynb) |
+[Pubg Cheater Detection](https://www.enjoyalgorithms.com/blog/pubg-cheater-detection-system-using-ml/) | [Random Forest](https://www.enjoyalgorithms.com/blog/random-forest-in-ml/) | [Code](https://github.com/enjoyalgorithms/Machine-learning-project-code/blob/main/industry_projects/PUBG%20Cheater%20Detection/PUBG_cheater_detection.ipynb) |
+[Drug Discovery](https://www.enjoyalgorithms.com/blog/drug-discovery-using-ml/) | [XG-Boost](https://www.enjoyalgorithms.com/blog/xg-boost-algorithm-in-ml/) | [Code](https://github.com/enjoyalgorithms/Machine-learning-project-code/blob/main/industry_projects/drug_discovery/drug_discovery.ipynb) |
 
 Unsupervised Learning Projects | Algorithm Used |Code |
 --- | --- | --- | 
-[Personality Prediction](https://www.enjoyalgorithms.com/blog/personality-prediction-using-ml/) | [k-means](https://www.enjoyalgorithms.com/blog/k-means-clustering-algorithm/) | [Code] |
+[Personality Prediction](https://www.enjoyalgorithms.com/blog/personality-prediction-using-ml/) | [k-means](https://www.enjoyalgorithms.com/blog/k-means-clustering-algorithm/) | [Code](https://github.com/enjoyalgorithms/Machine-learning-project-code/blob/main/industry_projects/personality_prediction/Personality.ipynb) |
 [Customer Segmentation](https://www.enjoyalgorithms.com/blog/customer-segmentation-using-hierarchical-clustering/) | [Hierarchical Clustering](https://www.enjoyalgorithms.com/blog/customer-segmentation-using-hierarchical-clustering/) | [Code] |
-[Image Compression](https://www.enjoyalgorithms.com/blog/image-compression-using-pca/) | [PCA](https://www.enjoyalgorithms.com/blog/principal-component-analysis-in-ml/) | [Code] |
+[Image Compression](https://www.enjoyalgorithms.com/blog/image-compression-using-pca/) | [PCA](https://www.enjoyalgorithms.com/blog/principal-component-analysis-in-ml/) | [Code](https://github.com/enjoyalgorithms/Machine-learning-project-code/blob/main/industry_projects/PCA_Image_compression/image_compression.ipynb) |
 
 
 ### 🤝 Contributing <a name="contributing"></a>
