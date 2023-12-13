@@ -9,5 +9,6 @@ yellowbrick
 pycountry_convert
 plotly
 statsmodels
+graphviz
 notebbok
 chembl_webresource_client
