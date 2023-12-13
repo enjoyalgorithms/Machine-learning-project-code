@@ -41,13 +41,18 @@ pip3 install --upgrade pip
 git clone https://github.com/enjoyalgorithms/Machine-learning-project-code.git
 ```
 
-#### Step 5: Install dependencies
+#### Step 5: Change the directory
+```
+cd Machine-learning-project-code
+```
+
+#### Step 6: Install dependencies
 
 ```
 pip3 install -r requirements.txt
 ```
 
-#### Step 6: Open the jupyter-notebook to run these ipynb files 
+#### Step 7: Open the jupyter-notebook to run these ipynb files 
 ```
 jupyter-notebook
 ```
