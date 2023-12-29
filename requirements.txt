@@ -12,3 +12,7 @@ statsmodels
 graphviz
 notebbok
 chembl_webresource_client
+graphviz
+wordcloud
+scattertext
+gensim
