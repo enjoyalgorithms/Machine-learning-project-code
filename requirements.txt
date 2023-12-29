@@ -9,7 +9,8 @@ yellowbrick
 pycountry_convert
 plotly
 statsmodels
-jupyter-notebbok
+graphviz
+notebbok
 chembl_webresource_client
 graphviz
 wordcloud
