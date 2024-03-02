@@ -10,7 +10,7 @@ pycountry_convert
 plotly
 statsmodels
 graphviz
-notebbok
+jupyter
 chembl_webresource_client
 graphviz
 wordcloud
